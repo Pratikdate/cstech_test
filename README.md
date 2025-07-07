@@ -1,16 +1,9 @@
-# cstech_test
+## 📹 Demo Video
 
-A new Flutter project.
+[Watch Demo Video](https://github.com/Pratikdate/cstech_test/blob/main/Screenrecorder-2025-07-07-10-13-34-946.mp4)
+<video src="https://github.com/Pratikdate/cstech_test/blob/main/Screenrecorder-2025-07-07-10-13-34-946.mp4" controls width="600"></video>
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## 📦 APK Download
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[Download APK](https://github.com/Pratikdate/cstech_test/blob/main/app-release.apk)
